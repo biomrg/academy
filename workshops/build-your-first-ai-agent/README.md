@@ -30,7 +30,7 @@ In this immersive workshop, you'll go from "What is agentic AI?" to creating, ru
 
 ### The Problem You Face
 - LLMs exist, but they don't autonomously *reason*, *call tools*, and *synthesize* — they just chat
-- You want to understand how real agents work, but tutorials skip the hard parts
+- You want to understand how real agents work
 
 ### What You'll Solve
 By the end of this workshop, you will:
