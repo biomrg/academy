@@ -19,7 +19,7 @@ Agentic AI is one of the fastest-growing areas in software engineering. In 2025 
 - **Tool calling** is the bridge between LLMs and real-world action
 - **Cloud/DevOps engineers** with AI skills are in high demand
 
-This workshop is your **entry point** — not a destination. After these 3 hours, you'll have the confidence and knowledge to:
+This workshop is your **entry point** — not a destination. After these 3 hours, you'll have the confidence and knowledge to understand Agentic workflow as an AI Engineer.
 
 ---
 
