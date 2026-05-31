@@ -10,6 +10,18 @@
 | **Registration** | [Link to registration] |
 
 ---
+## About This Learning Journey
+
+Agentic AI is one of the fastest-growing areas in software engineering. In 2025 and beyond:
+
+- **Agent frameworks** are becoming as common as React or Django
+- **Autonomous systems** are taking on more complex reasoning tasks
+- **Tool calling** is the bridge between LLMs and real-world action
+- **Cloud/DevOps engineers** with AI skills are in high demand
+
+This workshop is your **entry point** — not a destination. After these 3 hours, you'll have the confidence and knowledge to:
+
+---
 
 ## Event Overview
 
@@ -151,21 +163,5 @@ Tell us how you use the agent after the workshop!
 
 - Tweet `@YourOrg #AIWorkshop` with a screenshot of your agent in action
 - Submit your extended agent to the workshop GitHub discussion & Slack channel
-
-## About This Learning Journey
-
-Agentic AI is one of the fastest-growing areas in software engineering. In 2025 and beyond:
-
-- **Agent frameworks** are becoming as common as React or Django
-- **Autonomous systems** are taking on more complex reasoning tasks
-- **Tool calling** is the bridge between LLMs and real-world action
-- **Cloud/DevOps engineers** with AI skills are in high demand
-
-This workshop is your **entry point** — not a destination. After these 3 hours, you'll have the confidence and knowledge to:
-
-- Read research papers on agent design
-- Evaluate new agent frameworks critically
-- Build agents for your organization's challenges
-- Mentor others on how to think about automation differently
 
 **Welcome to the future of Cloud + AI.**
