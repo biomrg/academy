@@ -151,6 +151,8 @@ Tell us how you use the agent after the workshop!
 
 ## About the speaker
 
+<img width="1376" height="768" alt="Gemini_Generated_Image_h10ygoh10ygoh10y" src="https://github.com/user-attachments/assets/5457cb11-63ef-4ca4-b2d2-650a045de770" />
+
 **Som**, a highly accomplished technology leader, researcher, and mentor with over **18 years of experience** driving Digital Transformation initiatives and delivering innovative technology solutions that enable business growth, operational excellence, and strategic transformation for global organizations.
 
 Som currently serves as an **Infrastructure Architecture Manager and Technology Advisor** for a leading global multinational corporation, where he specializes in enterprise-scale solutions across **Amazon Web Services (AWS)** and **Microsoft Azure** platforms. His expertise is reinforced by an impressive portfolio of **more than a dozen professional certifications**, reflecting his technical excellence.
