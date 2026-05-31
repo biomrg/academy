@@ -21,6 +21,7 @@ Agentic AI is one of the fastest-growing areas in software engineering. In 2025 
 
 This workshop is your **entry point** — not a destination. After these 3 hours, you'll have the confidence and knowledge to understand Agentic workflow as an AI Engineer.
 
+**No prior AI/ML experience required** — Just curiosity and willingness to build an AI Agent.
 ---
 
 ## Event Overview
@@ -84,14 +85,6 @@ By the end of this workshop, you will:
 
 ---
 
-## How These Skills Help You Become an AI Engineer
-
-### The Career Trajectory
-**Today (This Workshop):**
-- You understand agentic AI at the code level
-- You can explain the ReAct loop to a colleague
-- You know how to wire tools into an LLM
-
 ### What Makes This Different from ChatGPT Prompting
 - **Tool calling** — You learn how agents make autonomous decisions (not just generating text)
 - **Control** — You understand every line of code; nothing is a black box
@@ -116,21 +109,8 @@ By the end of this workshop, you will:
 ✓ **Pre-workshop setup guide** — Clone, install, verify (15 min before workshop)  
 ✓ **Live agent running in the cloud** — Powered by Claude, not your laptop  
 ✓ **Code walkthrough** — Every file explained live  
-✓ **Pair programming** — Work with a partner on experiments  
-✓ **Take-home code** — Full working agent you can extend  
+✓ **Pair programming** — Work with a partner on experiments
 ✓ **Post-workshop resources** — Papers, docs, next-steps guide  
-
----
-
-## Prerequisites
-
-- **Python 3.11 or higher** — Check: `python --version`
-- **Git** — To clone the repository
-- **Anthropic API key** — Free tier available; get one in 60 seconds at https://console.anthropic.com/
-- **A text editor or IDE** — VS Code, PyCharm, Vim, etc.
-- **30 minutes before the workshop** — For pre-flight setup
-
-**No prior AI/ML experience required** — Just curiosity and willingness to read code.
 
 ---
 
