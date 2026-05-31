@@ -149,7 +149,7 @@ Tell us how you use the agent after the workshop!
 
 **Welcome to the future of AI.**
 
-##About the speaker
+## About the speaker
 
 **Som**, a highly accomplished technology leader, researcher, and mentor with over **18 years of experience** driving Digital Transformation initiatives and delivering innovative technology solutions that enable business growth, operational excellence, and strategic transformation for global organizations.
 
