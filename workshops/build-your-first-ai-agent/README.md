@@ -5,6 +5,7 @@
 ## Event Overview
 
 **Become an AI Engineer in 3 Hours** — Learn to build and deploy autonomous AI agents that make intelligent decisions, call tools, and reason like humans.
+
 It is NOT **Vibe Coding**. You will know how to build the Agent technically and how multiple Agents work together.
 
 In this immersive workshop, you'll go from "What is agentic AI?" to creating, running, modifying, and extending a real agent that answers complex cloud infrastructure questions. Less theory, less PowerPoint; more live demo, hands-on experiments, and clarity.
