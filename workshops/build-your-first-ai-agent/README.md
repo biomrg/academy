@@ -1,5 +1,14 @@
 # Workshop: Build Your First Agentic AI Agent
 
+## Event Details
+
+| Detail | Info |
+|--------|------|
+| **Duration** | 3 hours |
+| **Format** | Hands-on workshop|
+| **Date & Time** | [TO BE ANNOUNCED] |
+| **Registration** | [Link to registration] |
+
 ---
 
 ## Event Overview
@@ -113,19 +122,6 @@ By the end of this workshop, you will:
 
 ---
 
-## Event Details
-
-| Detail | Info |
-|--------|------|
-| **Duration** | 3 hours |
-| **Format** | Hands-on workshop (code-first, not theory-first) |
-| **Group Size** | 15–30 attendees (pairs/small groups) |
-| **Location** | [Virtual / In-person] |
-| **Date & Time** | [TO BE ANNOUNCED] |
-| **Cost** | Free / [Paid] |
-| **Registration** | [Link to registration] |
-
----
 
 ## What to Bring
 
