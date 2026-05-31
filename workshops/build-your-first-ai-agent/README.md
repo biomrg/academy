@@ -144,4 +144,4 @@ Tell us how you use the agent after the workshop!
 - Tweet `@YourOrg #AIWorkshop` with a screenshot of your agent in action
 - Submit your extended agent to the workshop GitHub discussion & Slack channel
 
-**Welcome to the future of Cloud + AI.**
+**Welcome to the future of AI.**
