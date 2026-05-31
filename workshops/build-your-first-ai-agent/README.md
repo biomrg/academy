@@ -1,3 +1,6 @@
+<img width="1376" height="768" alt="Gemini_Generated_Image_ueze8rueze8rueze" src="https://github.com/user-attachments/assets/c5f39fe5-6811-41c3-a8bb-4b3072d4c513" />
+
+
 # Workshop: Build Your First Agentic AI Agent
 
 ## Event Details
