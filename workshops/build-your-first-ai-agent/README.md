@@ -148,3 +148,17 @@ Tell us how you use the agent after the workshop!
 - Submit your extended agent to the workshop GitHub discussion & Slack channel
 
 **Welcome to the future of AI.**
+
+##About the speaker
+
+**Som**, a highly accomplished technology leader, researcher, and mentor with over **18 years of experience** driving Digital Transformation initiatives and delivering innovative technology solutions that enable business growth, operational excellence, and strategic transformation for global organizations.
+
+Som currently serves as an **Infrastructure Architecture Manager and Technology Advisor** for a leading global multinational corporation, where he specializes in enterprise-scale solutions across **Amazon Web Services (AWS)** and **Microsoft Azure** platforms. His expertise is reinforced by an impressive portfolio of **more than a dozen professional certifications**, reflecting his technical excellence.
+
+Beyond his corporate achievements, Som is a **PhD researcher in Machine Learning**, advancing the frontiers of artificial intelligence and data-driven innovation. He holds a strong academic foundation with a background in **Computer Science** and a **Master’s degree in Data Science**.
+
+A passionate advocate for technology innovation and knowledge sharing, Som is the **Founder of Biom Research Group**, a technology innovation forum dedicated to fostering collaboration, research, and emerging technology adoption. He is also an active member of **IEEE**, the world's largest technical professional organization.
+
+Som is a recognized speaker who has shared his expertise at respected organizations, including **Imaging Network Ontario (ImNO)** and the **Institute for Biomedical Engineering, Science and Technology (iBEST)**, inspiring professionals and researchers across diverse disciplines.
+
+His dedication to developing future leaders and empowering professionals has earned him the prestigious **Golden Guru Award** from a Tier-1 global IT consulting organization, recognizing his outstanding contributions to mentorship and professional growth.
