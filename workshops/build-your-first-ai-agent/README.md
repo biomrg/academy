@@ -15,7 +15,7 @@ In this immersive workshop, you'll go from "What is agentic AI?" to creating, ru
 
 ## Who Should Attend
 
-✓ **University Graduates, Technical or Non-technical associates** interested in AI development  
+✓ **University Graduates, Technical or Non-technical associates** interested in AI Agent development  
 ✓ **Cloud/DevOps Engineers** interested in AI/ML tools  
 ✓ **Infrastructure Architects** wanting to automate complex advisory tasks  
 ✓ **Site Reliability Engineers (SREs)** exploring AI-driven troubleshooting  
