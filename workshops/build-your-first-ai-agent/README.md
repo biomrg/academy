@@ -102,8 +102,8 @@ By the end of this workshop, you will:
 |------|-------|--------|---------|
 | **0:00–0:45** | Understanding Agentic AI | Lecture + Live Demo | The ReAct loop |
 | **0:45–1:45** | Code Deep Dive | Walkthrough + Pair Work | Solve a question through the agent |
-| **1:45–2:55** | Hands-On Experiments | Guided Labs | Create & Modify Agent, tools, test models, extend knowledge |
-| **2:55–3:00** | Synthesis & Q&A | Group Discussion | Know your next steps |
+| **1:45–2:45** | Hands-On Experiments | Guided Labs | Create & Modify Agent, tools, test models, extend knowledge |
+| **2:45–3:00** | Synthesis & Q&A | Group Discussion | Know your next steps |
 
 ---
 
